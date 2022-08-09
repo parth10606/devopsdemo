@@ -1,1 +1,2 @@
-Hello I am in File 1 
+Hello I am in File 1
+This is some change in file 1 
